@@ -3,6 +3,10 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#navbar > li {
+    text-decoration: none;
+}
+
 code {
     color: red;
     font-size: 13px;
